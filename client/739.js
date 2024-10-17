@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[739],{6739:(e,s,n)=>{n.d(s,{EditBundle:()=>EditBundle});var d=n(4041),t=n(4674),u=n(1085);class EditBundle extends d.Component{render(){return(0,u.jsx)(t.A,Object.assign({},this.props,{mode:"EDIT"}))}}}}]);

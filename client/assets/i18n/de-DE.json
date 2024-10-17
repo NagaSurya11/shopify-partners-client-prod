@@ -1,0 +1,189 @@
+{
+  "BUNDLE_SUMMARY": {
+    "FORMFIELD": {
+      "ACTUAL_PRICE": "Tatsächlicher Preis {{currencySymbol}}",
+      "DISCOUNT": "Rabatt %",
+      "NAME": "Bundle-Name",
+      "TOTAL_PRICE": "Gesamtpreis {{currencySymbol}}"
+    },
+    "INFO": "Aktualisieren Sie die Menge in der folgenden Tabelle entsprechend Ihren Anforderungen und geben Sie die Informationen ein.  {{currencySymbol}} {{maxPrice}}.",
+    "TABLE": {
+      "FOOTER": {
+        "ACTION_BTN": "Aus dem Bündel entfernen"
+      },
+      "HEADER": {
+        "RESET_TABLE": "Tabelle zurücksetzen",
+        "TITLE": "Bündeln"
+      }
+    },
+    "TITLE": "Bundle-Informationen"
+  },
+  "CREATE_BUNDLE": {
+    "ALERTS": {
+      "CANCEL_TEXT": "Stornieren",
+      "CONFIRM_TEXT": "Ersetzen",
+      "CONTENT_TEXT": "Die maximale Anzahl an Produkten pro Bundle beträgt 500. Möchten Sie durch Auswahl ersetzen?",
+      "DIALOG_TITLE": "Maximales Bundle-Limit erreicht!"
+    },
+    "BTN_TEXT": "Bündel erstellen",
+    "INFO": "Wählen Sie Produkte aus und fügen Sie sie zum Bundle hinzu, damit sie in der Bundle-Tabelle angezeigt werden.",
+    "LIST_PRODUCTS": {
+      "FOOTER": {
+        "ACTION_BTN_TEXT": "Ausgewählte Produkte zum Bundle hinzufügen"
+      },
+      "TABLE_BODY": {
+        "COLUMN": {
+          "ACTUAL_PRICE": "Tatsächlicher Preis",
+          "MAIN_CATEGORY": "Hauptkategorie",
+          "NAME": "Name",
+          "NO_OF_RATINGS": "Anzahl der Bewertungen",
+          "QUANTITY": "Menge",
+          "RATINGS": "Bewertungen",
+          "SUB_CATEGORY": "Unterkategorie"
+        }
+      },
+      "TABLE_FILTER": {
+        "FILTER_OPTIONS": {
+          "CATEGORY_FILTER": "Kategoriefilter",
+          "PRICE_FILTER": "Filter „Tatsächlicher Preis“.",
+          "RATINGS_FILTER": "Bewertungsfilter"
+        },
+        "TITLE": "Produktfilter"
+      },
+      "TABLE_HEADER": {
+        "ACTIONS": {
+          "RESET_TABLE": "Tabelle zurücksetzen",
+          "SELECT_ALL_FILTERED_PRODUCTS": "Wählen Sie alle gefilterten Produkte aus"
+        },
+        "TITLE": "Produkte"
+      },
+      "TABLE_ROW": {
+        "ACTIONS": {
+          "SELECT_PRODUCT": "Wählen Sie Produkt aus",
+          "VIEW_DETAILS": "Details anzeigen"
+        }
+      },
+      "VIEW_DETAILS": {
+        "DIALOG": {
+          "CANCEL_TEXT": "Stornieren",
+          "CONFIRM_TEXT": "Wählen Sie Produkt aus",
+          "TITLE": "Produktdetails"
+        }
+      }
+    },
+    "TITLE": "Bündel erstellen"
+  },
+  "DASHBOARD": {
+    "BUNDLE_TABLE": {
+      "COLUMNS": {
+        "BUNDLE_PRICE": "Bundle-Preis",
+        "DISCOUNT_PERCENTAGE": "Rabatt %",
+        "NAME": "Name",
+        "TOTAL_SOLD": "Insgesamt verkauft"
+      },
+      "DELETE_BUNDLE": {
+        "DIALOG": {
+          "CANCEL_TEXT": "Stornieren",
+          "CONFIRM_TEXT": "Löschen",
+          "CONTEXT_TEXT": "Das Löschen dieser Bündel führt zur Löschung aller verbundenen Datensätze. ",
+          "TITLE": "Bundle(s) löschen"
+        }
+      },
+      "FILTER": {
+        "DISCOUNT_FILTER": "Rabattfilter",
+        "PRICE_FILTER": "Preisfilter",
+        "TITLE": "Bündelfilter",
+        "TOTAL_SOLD_FILTER": "Insgesamt verkaufter Filter"
+      },
+      "FOOTER": {
+        "ACTION_BTN": "Ausgewählte Bundles löschen"
+      },
+      "HEADER": {
+        "ACTIONS": {
+          "RESET_TABLE": "Tabelle zurücksetzen"
+        }
+      },
+      "ROW_ACTION": {
+        "DELETE": "Löschen",
+        "MANAGE": "Verwalten",
+        "SELECT": "Wählen",
+        "VIEW_DETAILS": "Details anzeigen"
+      },
+      "TITLE": "Bündel",
+      "VIEW_DETAILS": {
+        "DIALOG": {
+          "CANCEL_TEXT": "Stornieren",
+          "CONFIRM_TEXT": "Bestätigen",
+          "TITLE": "Bundle-Details"
+        }
+      }
+    },
+    "CHART": {
+      "LABEL": {
+        "BUNDLE_PRICE": "Bundle-Preis",
+        "REVENUE": "Einnahmen",
+        "TOTAL_SOLD": "Insgesamt verkauft"
+      },
+      "TOTAL_SOLD_BY_PRICE_RANGE_BAR": "Gesamtverkauft vs. Preisspanne (Balkendiagramm)",
+      "TOTAL_SOLD_BY_PRICE_RANGE_BY_REVENUE": "Gesamtverkauft vs. Preis vs. Umsatz (Streudiagramm)",
+      "TOTAL_SOLD_BY_PRICE_RANGE_PIE": "Gesamtverkauft vs. Preisspanne (Kreisdiagramm)",
+      "TOTAL_SOLD_VS_REVENUE_BY_PRICE_RANGE_AREA_CHART": "Gesamtverkauft vs. Umsatz vs. Preisspanne (Flächendiagramm)"
+    }
+  },
+  "EDIT_BUNDLE": {
+    "BTN_TEXT": "Paket aktualisieren",
+    "INFO": "Bearbeiten Sie das Paket entsprechend Ihren Anforderungen. ",
+    "SEARCH_BUNDLE": {
+      "NO_DATA": "Keine Pakete gefunden",
+      "PLACEHOLDER": "Wert eingeben"
+    },
+    "SEARCH_BUNDLE_LABEL": "Suchpaket",
+    "TITLE": "Bundle bearbeiten"
+  },
+  "HEADER": {
+    "MENU_ICON": {
+      "TOOLTIP": {
+        "COLLAPSE": "Zusammenbruch",
+        "EXPAND": "Expandieren"
+      }
+    },
+    "PROFILE": {
+      "MENUITEMS": {
+        "CHOOSE_LANGUAGE": "Wählen Sie Sprache",
+        "LANGUAGES": {
+          "ENGLISH_US": "Englisch (USA)",
+          "GERMAN_GERMANY": "Deutsch (Deutschland)"
+        },
+        "LOGOUT": "Abmelden"
+      }
+    }
+  },
+  "SIDENAV": {
+    "LISTITEMS": {
+      "CREATE_BUNDLE": "Bundle erstellen",
+      "DASHBOARD": "Armaturenbrett",
+      "EDIT_BUNDLE": "Bundle bearbeiten"
+    }
+  },
+  "TABLE": {
+    "NO_DATA": "Keine Daten!"
+  },
+  "TABLE_FILTER": {
+    "CANCEL_TEXT": "Stornieren",
+    "CONFIRMATION_TEXT": "Anwenden",
+    "SELECT_ALL": "Alles auswählen"
+  },
+  "TABLE_FOOTER": {
+    "ROWS_PER_PAGE": "Zeilen pro Seite: "
+  },
+  "TABLE_HEADER": {
+    "SEARCH_INPUT": {
+      "PLACEHOLDER": "Suchen"
+    }
+  },
+  "VIEW_DETAILS": {
+    "DISCOUNT_PERCENTAGE": "Rabatt",
+    "NO_OF_RATINGS": "Bewertungen",
+    "TOTAL_SOLD": "Insgesamt verkaufte Artikel"
+  }
+}
